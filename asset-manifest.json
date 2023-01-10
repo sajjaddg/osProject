@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/osProject/static/css/main.bed2b742.css",
+    "main.js": "/osProject/static/js/main.6878afc5.js",
+    "index.html": "/osProject/index.html",
+    "main.bed2b742.css.map": "/osProject/static/css/main.bed2b742.css.map",
+    "main.6878afc5.js.map": "/osProject/static/js/main.6878afc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bed2b742.css",
+    "static/js/main.6878afc5.js"
+  ]
+}
